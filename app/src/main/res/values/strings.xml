@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorinis nr 3</string>
+    <string name="open_receiver_activity">Open new activity</string>
+    <string name="btn_add">Add note</string>
+    <string name="type_note_here">Type here</string>
+    <string name="button">Delete</string>
+</resources>
